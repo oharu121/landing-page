@@ -30,7 +30,7 @@ const HeroSection = () => {
               <p className="text-xl sm:text-2xl">TECHNOLOGY FOR ALL</p>
             </div>
           </div>
-          <div className="flex items-center mt-6 lg:mt-10 mb-6 lg:mb-10">
+          <div className="flex items-end mt-6 lg:mt-10 mb-6 lg:mb-10">
             <span className="text-lg lg:text-xl text-gray-400 mr-2">Built with</span>
             <Image
               src="/gemini.png"
